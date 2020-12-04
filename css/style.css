@@ -1,0 +1,31 @@
+#mainNav a{
+  color: #ffffff
+}
+
+.masthead {
+  background: url(../img/hero.jpg) no-repeat bottom center scroll;
+  background-size: cover;
+}
+
+.black-background-custom {
+  background-color: rgba(255,255,0,.75);
+}
+
+.download-section {
+  background: url(../img/01wos-wolverine.jpg) no-repeat bottom center scroll;
+  background-size: cover;
+}
+
+.download-section {
+    background: url(../img/New-Comics.jpg) no-repeat bottom center scroll;
+    background-size: cover;
+  }
+
+  .cafe {
+    background: url(../img/.jpg) no-repeat bottom center scroll;
+    background-size: cover;
+  }
+  .col-lg-8.mx-auto.transparent-background-custom {
+      background: #000000d6;
+      padding: 16px 0;
+  }
